@@ -1,0 +1,8 @@
+metric,value
+Total SKU-Warehouse Combinations,48.0
+Stockout Risk Combinations,17.0
+Excess Inventory Combinations,6.0
+Healthy Combinations,25.0
+Total Recommended Order Quantity,9026.0
+Average Reorder Point,1358.30125
+Average Safety Stock,457.3575000000001
